@@ -22,7 +22,7 @@ I'm GoralGT, an IT student based in Scotland with a passion for exploring data s
 
 ### 📫 How to reach me:
 - [GitHub Profile](https://github.com/GoralGT)
-- [Email](mailto:your.email@example.com) (Replace with your email)
+- [Email](mailto:tog00035@students.stir.ac.uk)
 
 ### ⚡ Fun facts:
 - I have a Six Sigma Yellow Belt certification 🟡.
