@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**GoralGT/GoralGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm GoralGT, an IT student based in Scotland with a passion for exploring data science, cars, and traveling. 🚗🌍📊
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- Data science projects focused on machine learning and predictive analytics.
+- Exploring web development with a focus on UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- Python for data analysis and machine learning.
+- MySQL for database management.
+- Orange for data visualization and modeling.
+
+### 👯 I’m looking to collaborate on:
+- Projects related to data science, web development, or automotive innovations.
+- Open-source initiatives where I can contribute my skills.
+
+### 💬 Ask me about:
+- Data science techniques and tools.
+- Cars and the latest trends in the automotive world.
+- Traveling tips and experiences.
+
+### 📫 How to reach me:
+- [GitHub Profile](https://github.com/GoralGT)
+- [Email](mailto:your.email@example.com) (Replace with your email)
+
+### ⚡ Fun facts:
+- I have a Six Sigma Yellow Belt certification 🟡.
+- Big fan of road trips and discovering new places.
+- Always up for learning something new and sharing knowledge!
+
+Thanks for stopping by! Let's connect and create something awesome together. 🚀
+
